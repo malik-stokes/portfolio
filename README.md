@@ -17,7 +17,6 @@ My portfolio showcases software development projects, technical skills, and prof
 
 * Goal Tracking Application
 * Cat Modeling Agency
-* Python API Project
 
 ## Live Site
 
