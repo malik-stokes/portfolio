@@ -20,7 +20,7 @@ My portfolio showcases software development projects, technical skills, and prof
 
 ## Live Site
 
-Portfolio URL: [Add GitHub Pages URL]
+Portfolio URL: (https://malik-stokes.github.io/portfolio/)
 
 ## Contact
 
