@@ -1,32 +1,31 @@
 # Malik Stokes Portfolio
 
-This repository contains the source code for my personal portfolio website.
+## Live Site
+
+[Portfolio](https://malik-stokes.github.io/portfolio/)
 
 ## About
 
-My portfolio showcases software development projects, technical skills, and professional experience in full-stack web development. It serves as a central hub for recruiters, hiring managers, and fellow developers to learn more about my work and background.
+This repository contains the source code for my personal portfolio website.
+
+My portfolio features my software development projects, technical skills, and professional experience in software engineering. It serves as a central hub for recruiters, hiring managers, and other developers to learn more about my work and background.
 
 ## Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
-* Responsive Web Design
+* SCSS (Sass)
 
 ## Featured Projects
 
-* Goal Tracking Application
-* Cat Modeling Agency
-
-## Live Site
-
-Portfolio URL: (https://malik-stokes.github.io/portfolio/)
+* Goal Tracking App – Web application for adding, completing, and deleting goals.
+* Cat Modeling Agency – Full-stack web application for managing cat profiles, bookings, and performance metrics.
 
 ## Contact
 
-* LinkedIn: https://www.linkedin.com/in/malikstokes/
-* GitHub: https://github.com/malik-stokes
+[LinkedIn](https://www.linkedin.com/in/malikstokes/)
 
 ## Resume
 
-My current resume is available directly through the portfolio website.
+My resume is available directly through my portfolio website.
