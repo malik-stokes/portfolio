@@ -1,30 +1,33 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Malik Stokes Portfolio
 
+This repository contains the source code for my personal portfolio website.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+## About
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+My portfolio showcases software development projects, technical skills, and professional experience in full-stack web development. It serves as a central hub for recruiters, hiring managers, and fellow developers to learn more about my work and background.
 
-(* = not included)
+## Technologies Used
 
-AJ
-aj@lkn.io | @ajlkn
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
 
+## Featured Projects
 
-Credits:
+* Goal Tracking Application
+* Cat Modeling Agency
+* Python API Project
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## Live Site
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Portfolio URL: [Add GitHub Pages URL]
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/malikstokes/
+* GitHub: https://github.com/malik-stokes
+
+## Resume
+
+My current resume is available directly through the portfolio website.
